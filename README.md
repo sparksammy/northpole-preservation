@@ -1,2 +1,2 @@
-# northpole-preservation-demo
-NorthPole.com Preservation Project Demo
+# northpole-preservation
+NorthPole.com Flash/JavaApplet Preservation Project, preserving these flash games and java applets for generations to come.
